@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lin Liyue | Guy Abel</title>
-    <link>https://guyabel.github.io/personal-site-public/author/lin-liyue/</link>
-      <atom:link href="https://guyabel.github.io/personal-site-public/author/lin-liyue/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.com/author/lin-liyue/</link>
+      <atom:link href="https://guyabel.com/author/lin-liyue/index.xml" rel="self" type="application/rss+xml" />
     <description>Lin Liyue</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Lin Liyue</title>
-      <link>https://guyabel.github.io/personal-site-public/author/lin-liyue/</link>
+      <link>https://guyabel.com/author/lin-liyue/</link>
     </image>
     
     <item>
       <title>Spatio-temporal evolution of migration in China from 1995 to 2015</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/china-internal-spatio-temporal/</link>
+      <link>https://guyabel.com/publication/china-internal-spatio-temporal/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/china-internal-spatio-temporal/</guid>
+      <guid>https://guyabel.com/publication/china-internal-spatio-temporal/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>migration | Guy Abel</title>
-    <link>https://guyabel.github.io/personal-site-public/categories/migration/</link>
-      <atom:link href="https://guyabel.github.io/personal-site-public/categories/migration/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.com/categories/migration/</link>
+      <atom:link href="https://guyabel.com/categories/migration/index.xml" rel="self" type="application/rss+xml" />
     <description>migration</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>migration</title>
-      <link>https://guyabel.github.io/personal-site-public/categories/migration/</link>
+      <link>https://guyabel.com/categories/migration/</link>
     </image>
     
     <item>
       <title>Animated Sankey plots of global migrant populations</title>
-      <link>https://guyabel.github.io/personal-site-public/post/animated-sankey/</link>
+      <link>https://guyabel.com/post/animated-sankey/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/post/animated-sankey/</guid>
+      <guid>https://guyabel.com/post/animated-sankey/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Sankey plots have been used to visualize bilateral migration many times. My favorite examples of Sankey plots for migration data tend to be when there are only few regions or countries. As the number of regions or countries increases the plot become more cumbersome, where labels for the smaller areas get too small and the plotting area becomes a very long rectangle making it awkward to fit on paper or view on the screen. In such cases I prefer &lt;a href=&#34;https://guyabel.com/post/global-migrant-stocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chord diagrams&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The recent highlights &lt;a href=&#34;https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2020_international_migration_highlights.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;document&lt;/a&gt; for the UN international migration stock data contained a couple of Sankey plots for the data in 2020. In this post I have created animated versions of one of the plots in the report to show changes in migrant distributions between 1990 and 2020 by World Bank income groups. I am using the destination and origin migrant stock data of the UN that can found online &lt;a href=&#34;https://www.un.org/development/desa/pd/content/international-migrant-stock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; - see the data links on the right hand side.&lt;/p&gt;
@@ -100,9 +100,9 @@ video {
     
     <item>
       <title>Global migrant populations visualized using animated chord diagrams </title>
-      <link>https://guyabel.github.io/personal-site-public/post/global-migrant-chord-diagrams/</link>
+      <link>https://guyabel.com/post/global-migrant-chord-diagrams/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/post/global-migrant-chord-diagrams/</guid>
+      <guid>https://guyabel.com/post/global-migrant-chord-diagrams/</guid>
       <description>&lt;p&gt;Over the last year or so I have been playing around with different ways of showing changing global bilateral migrant stocks, adapting the animation code I created for the plots for region to region flows in this estimation &lt;a href=&#34;https://www.nature.com/articles/s41597-019-0089-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;. I am putting them online here in case they are of interest to anyone else. Feel free to download the plots using right click over the animation and then &lt;code&gt;Save Video as&lt;/code&gt; or from &lt;a href=&#34;https://github.com/guyabel/personal-site/tree/master/static/img/cd-stock-global&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;global-migrant-populations-from-1990-to-2020&#34;&gt;Global migrant populations from 1990 to 2020&lt;/h2&gt;
 &lt;p&gt;The first plot below shows the change over time in the pattern of global migrant stocks. As with the &lt;a href=&#34;http://guyabel.com/post/migrant-stock-chord-digrams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regional plots&lt;/a&gt; in my previous post, the chords in the diagrams represent the connection between the places of birth (at the base of the chord) and places of residence (at the arrow head of the chord). The width of based of the chords correspond to the size of the migrant population in millions. Chords are ordered relative to their size, with the largest migrant stocks plotted at the beginning of the region segments. The ordering of chords jumps around over time as the relative rankings of the largest foreign-born populations change in each region. Values for the migrant population sizes are from the &lt;del&gt;2019&lt;/del&gt; 2020 revision of the United Nations DESA &lt;a href=&#34;https://www.un.org/development/desa/pd/content/international-migrant-stock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Migrant Stock Data&lt;/a&gt;.&lt;/p&gt;
@@ -161,9 +161,9 @@ In the plot below I tried to illustrate the relative sizes of migrant population
     
     <item>
       <title>R code for chord diagrams of Chinese internal migration</title>
-      <link>https://guyabel.github.io/personal-site-public/post/chinese-migration-chord-diagram/</link>
+      <link>https://guyabel.com/post/chinese-migration-chord-diagram/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/post/chinese-migration-chord-diagram/</guid>
+      <guid>https://guyabel.com/post/chinese-migration-chord-diagram/</guid>
       <description>&lt;p&gt;We have had a number of requests for the R code to replicate the plots in our &lt;a href=&#34;https://guyabel.com/publication/china-internal-migration-2010-15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; on internal migration in China. The code below will produce a similar looking plot, but I have taken out some of the arguments that were very specific to our plot that will not replicate well for other data.&lt;/p&gt;
 &lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
 &lt;p&gt;The code is based on two data sets:&lt;/p&gt;
@@ -277,9 +277,9 @@ image_write(image = p, path = &amp;quot;figure1.png&amp;quot;)
     
     <item>
       <title>Regional migrant population changes visualized using animated chord diagrams</title>
-      <link>https://guyabel.github.io/personal-site-public/post/regional-migrant-chord-diagrams/</link>
+      <link>https://guyabel.com/post/regional-migrant-chord-diagrams/</link>
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/post/regional-migrant-chord-diagrams/</guid>
+      <guid>https://guyabel.com/post/regional-migrant-chord-diagrams/</guid>
       <description>&lt;p&gt;During the last few months I have given some introductory talks on international migration in Asia and Europe. I had a couple of requests to share the animated chord diagrams that I created for others to use in their teaching materials.  These are below, along with some extra plots for Africa, the Americas (Northern, Central and Southern America as well as the Caribbean) and Oceania. Feel free to download the plots using right click over the animation and then &lt;code&gt;Save Video as&lt;/code&gt; or from &lt;a href=&#34;https://github.com/guyabel/personal-site/tree/master/content/post/migrant-stock-chord-digrams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The chords in the diagrams represent the connection between the places of birth (at the base of the chord) and places of residence (at the arrow head of the chord). The width of based of the chords correspond to the size of the migrant population in millions. Chords are ordered relative to their size, with the largest migrant stocks plotted at the beginning of the country segments. The ordering of chords jumps around over time as the relative rankings of the largest foreign-born populations change in each country. Values for the migrant population sizes are from the &lt;del&gt;2017&lt;/del&gt; &lt;del&gt;2019&lt;/del&gt; 2020 revision of the United Nations DESA &lt;a href=&#34;https://www.un.org/development/desa/pd/content/international-migrant-stock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Migrant Stock Data&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Note: you might have to right click, select show controls and hit play to start the animations depending on your browsers - right clicking can also allow you to access controls on the play back speed.&lt;/p&gt;
@@ -331,9 +331,9 @@ h2 {
     
     <item>
       <title>R code for animated chord diagrams</title>
-      <link>https://guyabel.github.io/personal-site-public/post/animated-directional-chord-diagrams/</link>
+      <link>https://guyabel.com/post/animated-directional-chord-diagrams/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/post/animated-directional-chord-diagrams/</guid>
+      <guid>https://guyabel.com/post/animated-directional-chord-diagrams/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;A little while ago my paper in &lt;em&gt;International Migration Review&lt;/em&gt; on global migration flow estimates came out &lt;a href=&#34;http://guyabel.com/publication/global-migration-estimates-by-gender/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;. The paper includes a number of directional chord diagrams to visualize the estimates.&lt;/p&gt;
 &lt;p&gt;Recently I have been playing around &lt;code&gt;tweenr&lt;/code&gt; and the &lt;code&gt;magick&lt;/code&gt; packages for animated population pyramids. In this post I attempt to show how to use these packages to produce animated directional chord diagrams of global migration flow estimates&lt;/p&gt;

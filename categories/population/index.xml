@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>population | Guy Abel</title>
-    <link>https://guyabel.github.io/personal-site-public/categories/population/</link>
-      <atom:link href="https://guyabel.github.io/personal-site-public/categories/population/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.com/categories/population/</link>
+      <atom:link href="https://guyabel.com/categories/population/index.xml" rel="self" type="application/rss+xml" />
     <description>population</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>population</title>
-      <link>https://guyabel.github.io/personal-site-public/categories/population/</link>
+      <link>https://guyabel.com/categories/population/</link>
     </image>
     
     <item>
       <title>Animated population tree maps</title>
-      <link>https://guyabel.github.io/personal-site-public/post/animated-population-treemaps/</link>
+      <link>https://guyabel.com/post/animated-population-treemaps/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/post/animated-population-treemaps/</guid>
+      <guid>https://guyabel.com/post/animated-population-treemaps/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The global population hit 8 billion &lt;a href=&#34;https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;today&lt;/a&gt;. To mark the passing an absolute population total I created some animated tree map plots in R to visualize relative past and future population totals for all countries.&lt;/p&gt;
 &lt;h2 id=&#34;plots&#34;&gt;Plots&lt;/h2&gt;

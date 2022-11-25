@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel E. Cohen | Guy Abel</title>
-    <link>https://guyabel.github.io/personal-site-public/author/joel-e.-cohen/</link>
-      <atom:link href="https://guyabel.github.io/personal-site-public/author/joel-e.-cohen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.com/author/joel-e.-cohen/</link>
+      <atom:link href="https://guyabel.com/author/joel-e.-cohen/index.xml" rel="self" type="application/rss+xml" />
     <description>Joel E. Cohen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Joel E. Cohen</title>
-      <link>https://guyabel.github.io/personal-site-public/author/joel-e.-cohen/</link>
+      <link>https://guyabel.com/author/joel-e.-cohen/</link>
     </image>
     
     <item>
       <title>Bilateral international migration flow estimates updated and refined by sex</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/bilateral-migration-flow-sex/</link>
+      <link>https://guyabel.com/publication/bilateral-migration-flow-sex/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/bilateral-migration-flow-sex/</guid>
+      <guid>https://guyabel.com/publication/bilateral-migration-flow-sex/</guid>
       <description>&lt;p&gt;Follow the links above to download the data. Below are a couple of extra animations I created to show some of the data. These were created using in  &lt;a href=&#34;https://guyabel.com/categories/r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;  using code adapted from this &lt;a href=&#34;https://guyabel.com/post/animated-directional-chord-diagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;sex-differences&#34;&gt;Sex differences&lt;/h4&gt;
 &lt;style&gt;
@@ -39,15 +39,15 @@ video {
     
     <item>
       <title>Bilateral international migration flow estimates for 200 countries</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/</link>
+      <link>https://guyabel.com/publication/bilateral-international-migration-flow-estimates/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/</guid>
-      <description>&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+      <guid>https://guyabel.com/publication/bilateral-international-migration-flow-estimates/</guid>
+      <description>&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
 &lt;p&gt;Since the paper was published, I have produced four updates to reflect&lt;/p&gt;
 &lt;ul&gt;

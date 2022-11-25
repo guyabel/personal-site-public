@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Guy Abel</title>
-    <link>https://guyabel.github.io/personal-site-public/publication/</link>
-      <atom:link href="https://guyabel.github.io/personal-site-public/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.com/publication/</link>
+      <atom:link href="https://guyabel.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/</link>
+      <link>https://guyabel.com/publication/</link>
     </image>
     
     <item>
       <title>Closing disparities between European sending and receiving international migration flow data</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/european-flow-data/</link>
+      <link>https://guyabel.com/publication/european-flow-data/</link>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/european-flow-data/</guid>
+      <guid>https://guyabel.com/publication/european-flow-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bilateral international migration flow estimates updated and refined by sex</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/bilateral-migration-flow-sex/</link>
+      <link>https://guyabel.com/publication/bilateral-migration-flow-sex/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/bilateral-migration-flow-sex/</guid>
+      <guid>https://guyabel.com/publication/bilateral-migration-flow-sex/</guid>
       <description>&lt;p&gt;Follow the links above to download the data. Below are a couple of extra animations I created to show some of the data. These were created using in  &lt;a href=&#34;https://guyabel.com/categories/r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;  using code adapted from this &lt;a href=&#34;https://guyabel.com/post/animated-directional-chord-diagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;sex-differences&#34;&gt;Sex differences&lt;/h4&gt;
 &lt;style&gt;
@@ -47,57 +47,57 @@ video {
     
     <item>
       <title>Spatio-temporal evolution of migration in China from 1995 to 2015</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/china-internal-spatio-temporal/</link>
+      <link>https://guyabel.com/publication/china-internal-spatio-temporal/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/china-internal-spatio-temporal/</guid>
+      <guid>https://guyabel.com/publication/china-internal-spatio-temporal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data, Design, and Deep Domain Knowledge: Science-Policy Collaboration to Combat Misinformation on Migration and Migrants</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/migration-misinformation/</link>
+      <link>https://guyabel.com/publication/migration-misinformation/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/migration-misinformation/</guid>
+      <guid>https://guyabel.com/publication/migration-misinformation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geographic transformation of China&#39;s internal population migration from 1995 to 2015: Insights from the migration centerline</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/china-migration-centerline/</link>
+      <link>https://guyabel.com/publication/china-migration-centerline/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/china-migration-centerline/</guid>
+      <guid>https://guyabel.com/publication/china-migration-centerline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brain Circulation: The Educational Profile of Return Migrants.</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/education-return-migration/</link>
+      <link>https://guyabel.com/publication/education-return-migration/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/education-return-migration/</guid>
+      <guid>https://guyabel.com/publication/education-return-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The form and evolution of international migration networks</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/global-flow-networks/</link>
+      <link>https://guyabel.com/publication/global-flow-networks/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/global-flow-networks/</guid>
+      <guid>https://guyabel.com/publication/global-flow-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing the Effect of Time in Migration Measurement Using Geo-referenced Digital Trace Data</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/digital-migration-measures/</link>
+      <link>https://guyabel.com/publication/digital-migration-measures/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/digital-migration-measures/</guid>
+      <guid>https://guyabel.com/publication/digital-migration-measures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>International remittance flows and the economic and social consequences of COVID-19</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/covid-remittance/</link>
+      <link>https://guyabel.com/publication/covid-remittance/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/covid-remittance/</guid>
+      <guid>https://guyabel.com/publication/covid-remittance/</guid>
       <description>&lt;h3 id=&#34;animated-version&#34;&gt;Animated Version&lt;/h3&gt;
 &lt;p&gt;Below is an animated version of the plot in the paper for remittance since 2010 based on the World Bank &lt;a href=&#34;https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues/brief/migration-remittances-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;&lt;/p&gt;
 &lt;style&gt;
@@ -117,23 +117,23 @@ video {
     
     <item>
       <title>Driving Factors of Asian International Migration Flows</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/asian-migration-drivers/</link>
+      <link>https://guyabel.com/publication/asian-migration-drivers/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/asian-migration-drivers/</guid>
+      <guid>https://guyabel.com/publication/asian-migration-drivers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bilateral international migration flow estimates for 200 countries</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/</link>
+      <link>https://guyabel.com/publication/bilateral-international-migration-flow-estimates/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/</guid>
-      <description>&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://guyabel.github.io/personal-site-public/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+      <guid>https://guyabel.com/publication/bilateral-international-migration-flow-estimates/</guid>
+      <description>&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
 &lt;p&gt;Since the paper was published, I have produced four updates to reflect&lt;/p&gt;
 &lt;ul&gt;
@@ -259,17 +259,17 @@ There biggest changes are the drops in the correlations for the estimates based 
     
     <item>
       <title>Climate, Conflict and Forced Migration</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/climate-conflict-and-forced-migration/</link>
+      <link>https://guyabel.com/publication/climate-conflict-and-forced-migration/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/climate-conflict-and-forced-migration/</guid>
+      <guid>https://guyabel.com/publication/climate-conflict-and-forced-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimates of Global Bilateral Migration Flows by Gender between 1960 and 2015</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/global-migration-estimates-by-gender/</link>
+      <link>https://guyabel.com/publication/global-migration-estimates-by-gender/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/global-migration-estimates-by-gender/</guid>
+      <guid>https://guyabel.com/publication/global-migration-estimates-by-gender/</guid>
       <description>&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;p&gt;Please contact me if cannot access the full paper and would like a copy.&lt;/p&gt;
 &lt;p&gt;A new paper presenting estimates of sex-specific five-year bilateral migration flows between 1990 and 2020 was published in &lt;a href=&#34;https://www.nature.com/articles/s41597-022-01271-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Data&lt;/a&gt;. The estimates in the new paper are from a range of methods, including the method presented in the International Migration Review article. The updated flow estimates can be downloaded from &lt;a href=&#34;https://figshare.com/collections/Bilateral_international_migration_flow_estimates_by_sex/5800838&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figshare collection&lt;/a&gt; directly.&lt;/p&gt;
@@ -278,17 +278,17 @@ There biggest changes are the drops in the correlations for the estimates based 
     
     <item>
       <title>Bowling together: scientific collaboration networks of demographers at European Population Conferences</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/epc-collabs/</link>
+      <link>https://guyabel.com/publication/epc-collabs/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/epc-collabs/</guid>
+      <guid>https://guyabel.com/publication/epc-collabs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-zero trajectories for long-run net migration assumptions in global population projection models</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/non-zero-ssp-net-migration-projections/</link>
+      <link>https://guyabel.com/publication/non-zero-ssp-net-migration-projections/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/non-zero-ssp-net-migration-projections/</guid>
+      <guid>https://guyabel.com/publication/non-zero-ssp-net-migration-projections/</guid>
       <description>&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;p&gt;Below are some plots that I had to drop from the paper. Some reviewers liked them, reviewer three didn’t. The editor sided with the later, making a good point; they distracted from the main narrative of the paper. I have put them here as 1) I think they still might be of interest to some and 2) it took some effort to gather the net migration data from as many past versions of the World Population Prospects (WPP) as I could get my hands on.&lt;/p&gt;
 &lt;p&gt;The first plot shows estimates and future assumptions of net migration for all countries, as published by the United Nations DESA in past and current WPP.&lt;/p&gt;
@@ -302,9 +302,9 @@ There biggest changes are the drops in the correlations for the estimates based 
     
     <item>
       <title>Subnational gender balances in South Korea</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/korea-gender-balance/</link>
+      <link>https://guyabel.com/publication/korea-gender-balance/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/korea-gender-balance/</guid>
+      <guid>https://guyabel.com/publication/korea-gender-balance/</guid>
       <description>&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;p&gt;An animated version of the plot in the paper I made when playing around with &lt;a href=&#34;https://github.com/thomasp85/gganimate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;gganimate&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;korea_srb.gif&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
@@ -313,9 +313,9 @@ There biggest changes are the drops in the correlations for the estimates based 
     
     <item>
       <title>Changing internal migration flows patterns in South Korea</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/korea-internal-migration-1970-2016/</link>
+      <link>https://guyabel.com/publication/korea-internal-migration-1970-2016/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/korea-internal-migration-1970-2016/</guid>
+      <guid>https://guyabel.com/publication/korea-internal-migration-1970-2016/</guid>
       <description>&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;p&gt;Please contact me if you would like the R code to produce the plot.&lt;/p&gt;
 </description>
@@ -323,9 +323,9 @@ There biggest changes are the drops in the correlations for the estimates based 
     
     <item>
       <title>Chinese Internal Migration Flows 2010–2015 </title>
-      <link>https://guyabel.github.io/personal-site-public/publication/china-internal-migration-2010-15/</link>
+      <link>https://guyabel.com/publication/china-internal-migration-2010-15/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/china-internal-migration-2010-15/</guid>
+      <guid>https://guyabel.com/publication/china-internal-migration-2010-15/</guid>
       <description>&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;p&gt;Here is an additional WeChat &lt;a href=&#34;http://mp.weixin.qq.com/s/gmv5iiJ5L-uNyI6vlGOhQA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; on the paper (in Chinese) written by Qi Wei.&lt;/p&gt;
 &lt;p&gt;The code for the plot is available in a blog &lt;a href=&#34;https://guyabel.com/publication/china-internal-migration-2010-15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;&lt;/p&gt;
@@ -334,9 +334,9 @@ There biggest changes are the drops in the correlations for the estimates based 
     
     <item>
       <title>Climate Vulnerability and Human Migration in Global Perspective</title>
-      <link>https://guyabel.github.io/personal-site-public/publication/global-climate-vulnerability-and-migration/</link>
+      <link>https://guyabel.com/publication/global-climate-vulnerability-and-migration/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.github.io/personal-site-public/publication/global-climate-vulnerability-and-migration/</guid>
+      <guid>https://guyabel.com/publication/global-climate-vulnerability-and-migration/</guid>
       <description></description>
     </item>
     
