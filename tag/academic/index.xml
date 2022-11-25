@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Guy Abel</title>
-    <link>https://guyabel.com/tag/academic/</link>
-      <atom:link href="https://guyabel.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.github.io/personal-site-public/tag/academic/</link>
+      <atom:link href="https://guyabel.github.io/personal-site-public/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>https://guyabel.com/tag/academic/</link>
+      <link>https://guyabel.github.io/personal-site-public/tag/academic/</link>
     </image>
     
     <item>
       <title>Animated population tree maps</title>
-      <link>https://guyabel.com/post/animated-population-treemaps/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/animated-population-treemaps/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/animated-population-treemaps/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/animated-population-treemaps/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The global population hit 8 billion &lt;a href=&#34;https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;today&lt;/a&gt;. To mark the passing an absolute population total I created some animated tree map plots in R to visualize relative past and future population totals for all countries.&lt;/p&gt;
 &lt;h2 id=&#34;plots&#34;&gt;Plots&lt;/h2&gt;
@@ -41,9 +41,9 @@ source_gist(&#34;https://gist.github.com/guyabel/56f6b7750c44d1444675d93a599ccca
     
     <item>
       <title>Animated Sankey plots of global migrant populations</title>
-      <link>https://guyabel.com/post/animated-sankey/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/animated-sankey/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/animated-sankey/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/animated-sankey/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Sankey plots have been used to visualize bilateral migration many times. My favorite examples of Sankey plots for migration data tend to be when there are only few regions or countries. As the number of regions or countries increases the plot become more cumbersome, where labels for the smaller areas get too small and the plotting area becomes a very long rectangle making it awkward to fit on paper or view on the screen. In such cases I prefer &lt;a href=&#34;https://guyabel.com/post/global-migrant-stocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chord diagrams&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The recent highlights &lt;a href=&#34;https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2020_international_migration_highlights.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;document&lt;/a&gt; for the UN international migration stock data contained a couple of Sankey plots for the data in 2020. In this post I have created animated versions of one of the plots in the report to show changes in migrant distributions between 1990 and 2020 by World Bank income groups. I am using the destination and origin migrant stock data of the UN that can found online &lt;a href=&#34;https://www.un.org/development/desa/pd/content/international-migrant-stock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; - see the data links on the right hand side.&lt;/p&gt;
@@ -127,9 +127,9 @@ video {
     
     <item>
       <title>Expand broom::tidy() output for categorical parameter estimates</title>
-      <link>https://guyabel.com/post/tidycat/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/tidycat/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/tidycat/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/tidycat/</guid>
       <description>&lt;div&gt;&lt;img src=&#34;featured.png&#34; width=&#34;200px&#34; align=&#34;right&#34;&gt;&lt;/div&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The &lt;code&gt;tidycat&lt;/code&gt; package includes the &lt;code&gt;tidy_categorical()&lt;/code&gt; function to expand &lt;code&gt;broom::tidy()&lt;/code&gt; outputs for categorical parameter estimates.&lt;/p&gt;
@@ -208,7 +208,7 @@ d1 %&amp;gt;%
   geom_hline(yintercept = 0, linetype = &amp;quot;dashed&amp;quot;) +
   geom_pointrange()
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://guyabel.com/post/tidycat/index_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;768&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://guyabel.github.io/personal-site-public/post/tidycat/index_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;768&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 &lt;p&gt;You can install the released version of tidycat from &lt;a href=&#34;https://CRAN.R-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; with:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&amp;quot;tidycat&amp;quot;)
@@ -222,9 +222,9 @@ devtools::install_github(&amp;quot;guyabel/tidycat&amp;quot;)
     
     <item>
       <title>R code for chord diagrams of Chinese internal migration</title>
-      <link>https://guyabel.com/post/chinese-migration-chord-diagram/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/chinese-migration-chord-diagram/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/chinese-migration-chord-diagram/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/chinese-migration-chord-diagram/</guid>
       <description>&lt;p&gt;We have had a number of requests for the R code to replicate the plots in our &lt;a href=&#34;https://guyabel.com/publication/china-internal-migration-2010-15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; on internal migration in China. The code below will produce a similar looking plot, but I have taken out some of the arguments that were very specific to our plot that will not replicate well for other data.&lt;/p&gt;
 &lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
 &lt;p&gt;The code is based on two data sets:&lt;/p&gt;
@@ -338,9 +338,9 @@ image_write(image = p, path = &amp;quot;figure1.png&amp;quot;)
     
     <item>
       <title>R code for animated chord diagrams</title>
-      <link>https://guyabel.com/post/animated-directional-chord-diagrams/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/animated-directional-chord-diagrams/</link>
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/animated-directional-chord-diagrams/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/animated-directional-chord-diagrams/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;A little while ago my paper in &lt;em&gt;International Migration Review&lt;/em&gt; on global migration flow estimates came out &lt;a href=&#34;http://guyabel.com/publication/global-migration-estimates-by-gender/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;. The paper includes a number of directional chord diagrams to visualize the estimates.&lt;/p&gt;
 &lt;p&gt;Recently I have been playing around &lt;code&gt;tweenr&lt;/code&gt; and the &lt;code&gt;magick&lt;/code&gt; packages for animated population pyramids. In this post I attempt to show how to use these packages to produce animated directional chord diagrams of global migration flow estimates&lt;/p&gt;

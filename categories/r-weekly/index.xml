@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>r-weekly | Guy Abel</title>
-    <link>https://guyabel.com/categories/r-weekly/</link>
-      <atom:link href="https://guyabel.com/categories/r-weekly/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.github.io/personal-site-public/categories/r-weekly/</link>
+      <atom:link href="https://guyabel.github.io/personal-site-public/categories/r-weekly/index.xml" rel="self" type="application/rss+xml" />
     <description>r-weekly</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>r-weekly</title>
-      <link>https://guyabel.com/categories/r-weekly/</link>
+      <link>https://guyabel.github.io/personal-site-public/categories/r-weekly/</link>
     </image>
     
     <item>
       <title>Animated population tree maps</title>
-      <link>https://guyabel.com/post/animated-population-treemaps/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/animated-population-treemaps/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/animated-population-treemaps/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/animated-population-treemaps/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The global population hit 8 billion &lt;a href=&#34;https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;today&lt;/a&gt;. To mark the passing an absolute population total I created some animated tree map plots in R to visualize relative past and future population totals for all countries.&lt;/p&gt;
 &lt;h2 id=&#34;plots&#34;&gt;Plots&lt;/h2&gt;
@@ -41,9 +41,9 @@ source_gist(&#34;https://gist.github.com/guyabel/56f6b7750c44d1444675d93a599ccca
     
     <item>
       <title>The evolution of squad compositions at UEFA European Championships</title>
-      <link>https://guyabel.com/post/uefa-ec-chord-diagram/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/uefa-ec-chord-diagram/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/uefa-ec-chord-diagram/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/uefa-ec-chord-diagram/</guid>
       <description>&lt;p&gt;I have been playing around with &lt;a href=&#34;https://rvest.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rvest&lt;/a&gt; once again, and decided to extend some old &lt;a href=&#34;https://gjabel.wordpress.com/2016/06/15/euro-2016-squads/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; to put together a data base on the squads at past European Championships from &lt;a href=&#34;https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;. I wanted to use the chordDiagram() function in the &lt;a href=&#34;https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circlize&lt;/a&gt; package in R to illustrate the links between the league of the clubs where each national team player is represented.&lt;/p&gt;
 &lt;p&gt;A few days ago, the squads were confirmed for Euro2020. The chords between the leagues and national teams form one big hair ball:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
@@ -69,9 +69,9 @@ video {
     
     <item>
       <title>Animated Sankey plots of global migrant populations</title>
-      <link>https://guyabel.com/post/animated-sankey/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/animated-sankey/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/animated-sankey/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/animated-sankey/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Sankey plots have been used to visualize bilateral migration many times. My favorite examples of Sankey plots for migration data tend to be when there are only few regions or countries. As the number of regions or countries increases the plot become more cumbersome, where labels for the smaller areas get too small and the plotting area becomes a very long rectangle making it awkward to fit on paper or view on the screen. In such cases I prefer &lt;a href=&#34;https://guyabel.com/post/global-migrant-stocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chord diagrams&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The recent highlights &lt;a href=&#34;https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2020_international_migration_highlights.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;document&lt;/a&gt; for the UN international migration stock data contained a couple of Sankey plots for the data in 2020. In this post I have created animated versions of one of the plots in the report to show changes in migrant distributions between 1990 and 2020 by World Bank income groups. I am using the destination and origin migrant stock data of the UN that can found online &lt;a href=&#34;https://www.un.org/development/desa/pd/content/international-migrant-stock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; - see the data links on the right hand side.&lt;/p&gt;

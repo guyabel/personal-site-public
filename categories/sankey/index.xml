@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sankey | Guy Abel</title>
-    <link>https://guyabel.com/categories/sankey/</link>
-      <atom:link href="https://guyabel.com/categories/sankey/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.github.io/personal-site-public/categories/sankey/</link>
+      <atom:link href="https://guyabel.github.io/personal-site-public/categories/sankey/index.xml" rel="self" type="application/rss+xml" />
     <description>sankey</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>sankey</title>
-      <link>https://guyabel.com/categories/sankey/</link>
+      <link>https://guyabel.github.io/personal-site-public/categories/sankey/</link>
     </image>
     
     <item>
       <title>Animated Sankey plots of global migrant populations</title>
-      <link>https://guyabel.com/post/animated-sankey/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/animated-sankey/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/animated-sankey/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/animated-sankey/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Sankey plots have been used to visualize bilateral migration many times. My favorite examples of Sankey plots for migration data tend to be when there are only few regions or countries. As the number of regions or countries increases the plot become more cumbersome, where labels for the smaller areas get too small and the plotting area becomes a very long rectangle making it awkward to fit on paper or view on the screen. In such cases I prefer &lt;a href=&#34;https://guyabel.com/post/global-migrant-stocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chord diagrams&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The recent highlights &lt;a href=&#34;https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2020_international_migration_highlights.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;document&lt;/a&gt; for the UN international migration stock data contained a couple of Sankey plots for the data in 2020. In this post I have created animated versions of one of the plots in the report to show changes in migrant distributions between 1990 and 2020 by World Bank income groups. I am using the destination and origin migrant stock data of the UN that can found online &lt;a href=&#34;https://www.un.org/development/desa/pd/content/international-migrant-stock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; - see the data links on the right hand side.&lt;/p&gt;

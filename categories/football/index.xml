@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>football | Guy Abel</title>
-    <link>https://guyabel.com/categories/football/</link>
-      <atom:link href="https://guyabel.com/categories/football/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.github.io/personal-site-public/categories/football/</link>
+      <atom:link href="https://guyabel.github.io/personal-site-public/categories/football/index.xml" rel="self" type="application/rss+xml" />
     <description>football</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>football</title>
-      <link>https://guyabel.com/categories/football/</link>
+      <link>https://guyabel.github.io/personal-site-public/categories/football/</link>
     </image>
     
     <item>
       <title>The evolution of squad compositions at UEFA European Championships</title>
-      <link>https://guyabel.com/post/uefa-ec-chord-diagram/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/uefa-ec-chord-diagram/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/uefa-ec-chord-diagram/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/uefa-ec-chord-diagram/</guid>
       <description>&lt;p&gt;I have been playing around with &lt;a href=&#34;https://rvest.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rvest&lt;/a&gt; once again, and decided to extend some old &lt;a href=&#34;https://gjabel.wordpress.com/2016/06/15/euro-2016-squads/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; to put together a data base on the squads at past European Championships from &lt;a href=&#34;https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;. I wanted to use the chordDiagram() function in the &lt;a href=&#34;https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circlize&lt;/a&gt; package in R to illustrate the links between the league of the clubs where each national team player is represented.&lt;/p&gt;
 &lt;p&gt;A few days ago, the squads were confirmed for Euro2020. The chords between the leagues and national teams form one big hair ball:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
@@ -42,9 +42,9 @@ video {
     
     <item>
       <title>Animating the evoloution of football kits using R</title>
-      <link>https://guyabel.com/post/football-kits/</link>
+      <link>https://guyabel.github.io/personal-site-public/post/football-kits/</link>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/football-kits/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/post/football-kits/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m loving the &lt;a href=&#34;https://cran.r-project.org/web/packages/magick/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;magick&lt;/a&gt; package at the moment. Reading through the &lt;a href=&#34;https://cran.r-project.org/web/packages/magick/vignettes/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vignette&lt;/a&gt; I spotted the &lt;code&gt;image_morph()&lt;/code&gt; function. In this post I experiment with the function to build the GIF below that shows the changes in the England football first kit over time, using images from the excellent &lt;a href=&#34;http://www.historicalkits.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Historical Football Kits&lt;/a&gt; website.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;abel-england.gif&#34; alt=&#34; &#34;&gt;&lt;/p&gt;

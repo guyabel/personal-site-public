@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adrian Kitimbo | Guy Abel</title>
-    <link>https://guyabel.com/author/adrian-kitimbo/</link>
-      <atom:link href="https://guyabel.com/author/adrian-kitimbo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://guyabel.github.io/personal-site-public/author/adrian-kitimbo/</link>
+      <atom:link href="https://guyabel.github.io/personal-site-public/author/adrian-kitimbo/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrian Kitimbo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2022 Guy Abel</copyright><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <url>https://guyabel.github.io/personal-site-public/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Adrian Kitimbo</title>
-      <link>https://guyabel.com/author/adrian-kitimbo/</link>
+      <link>https://guyabel.github.io/personal-site-public/author/adrian-kitimbo/</link>
     </image>
     
     <item>
       <title>Data, Design, and Deep Domain Knowledge: Science-Policy Collaboration to Combat Misinformation on Migration and Migrants</title>
-      <link>https://guyabel.com/publication/migration-misinformation/</link>
+      <link>https://guyabel.github.io/personal-site-public/publication/migration-misinformation/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/publication/migration-misinformation/</guid>
+      <guid>https://guyabel.github.io/personal-site-public/publication/migration-misinformation/</guid>
       <description></description>
     </item>
     
