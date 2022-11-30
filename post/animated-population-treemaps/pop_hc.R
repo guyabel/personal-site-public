@@ -66,7 +66,7 @@ a2 <- d %>%
   pop_tree() +
   transition_time(time = year) +
   labs(title = 'Global Human Capital Distribution: {round(frame_time)} - SSP2 Projection', 
-       subtitle = "Based on population with a completed post-secondary education",
+       subtitle = "Based on population with a completed secondary education",
        caption = "Data Reference: Wittgenstein Centre for Demography and Global Human Capital (WIC) Wittgenstein Centre Data Explorer. Version 2.0, 2018. Plot by @guyabelguyabel") 
 
 # write animations to gif files. one frame per year, except first and last
@@ -87,3 +87,5 @@ h1 <- image_read(path = "hc1.gif")
 h2 <- image_read(path = "hc2.gif")
 h <- c(h1, h2)
 image_write(image = h, path = "hc.gif")
+
+# file.remove(c("hc1.gif", "hc2.gif", "hc.gif"))
