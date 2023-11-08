@@ -5,7 +5,7 @@
     <link>https://guyabel.com/</link>
       <atom:link href="https://guyabel.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Guy Abel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2023 Guy Abel</copyright><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2023 Guy Abel</copyright><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Guy Abel</title>
@@ -105,6 +105,38 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>World’s human migration patterns in 2000–2019 unveiled by high-resolution data</title>
+      <link>https://guyabel.com/publication/global-net-grid/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/global-net-grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling climate migration: dead ends and new avenues</title>
+      <link>https://guyabel.com/publication/climate-migration-dead-end-new-avenues/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/climate-migration-dead-end-new-avenues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Migration and Development: The Changing Impact of Migration on Redistributing Global Population</title>
+      <link>https://guyabel.com/publication/global-migration-population-impact/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/global-migration-population-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the distribution of university alumni populations within South Korea and Taiwan based on data from the LinkedIn advertising platform</title>
+      <link>https://guyabel.com/publication/linkedin-taiwan-korea/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/linkedin-taiwan-korea/</guid>
+      <description></description>
     </item>
     
     <item>

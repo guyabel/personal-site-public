@@ -5,12 +5,36 @@
     <link>https://guyabel.com/author/guy-j.-abel/</link>
       <atom:link href="https://guyabel.com/author/guy-j.-abel/index.xml" rel="self" type="application/rss+xml" />
     <description>Guy J. Abel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2023 Guy Abel</copyright><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2023 Guy Abel</copyright><lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Guy J. Abel</title>
       <link>https://guyabel.com/author/guy-j.-abel/</link>
     </image>
+    
+    <item>
+      <title>Modeling climate migration: dead ends and new avenues</title>
+      <link>https://guyabel.com/publication/climate-migration-dead-end-new-avenues/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/climate-migration-dead-end-new-avenues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Migration and Development: The Changing Impact of Migration on Redistributing Global Population</title>
+      <link>https://guyabel.com/publication/global-migration-population-impact/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/global-migration-population-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the distribution of university alumni populations within South Korea and Taiwan based on data from the LinkedIn advertising platform</title>
+      <link>https://guyabel.com/publication/linkedin-taiwan-korea/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/linkedin-taiwan-korea/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Closing disparities between European sending and receiving international migration flow data</title>
