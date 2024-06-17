@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="I have been playing around with rvest once again, and decided to extend some old code to put together a data base on the squads at past European Championships from Wikipedia." />
+  <meta name="description" content="Euro 2024 Whilst waiting for a delayed flight I managed to update my uefa-ec  GitHub repository with new data on the squads at the current European Championships from Wikipedia, and the code to visualise where national team players play their club football using the chordDiagram() function in the circlize R package." />
 
   
   <link rel="alternate" hreflang="en-uk" href="https://guyabel.com/post/uefa-ec-chord-diagram/" />
@@ -337,16 +337,16 @@
   <meta property="og:site_name" content="Guy Abel" />
   <meta property="og:url" content="https://guyabel.com/post/uefa-ec-chord-diagram/" />
   <meta property="og:title" content="The evolution of squad compositions at UEFA European Championships | Guy Abel" />
-  <meta property="og:description" content="I have been playing around with rvest once again, and decided to extend some old code to put together a data base on the squads at past European Championships from Wikipedia." /><meta property="og:image" content="https://guyabel.com/post/uefa-ec-chord-diagram/featured.png" />
+  <meta property="og:description" content="Euro 2024 Whilst waiting for a delayed flight I managed to update my uefa-ec  GitHub repository with new data on the squads at the current European Championships from Wikipedia, and the code to visualise where national team players play their club football using the chordDiagram() function in the circlize R package." /><meta property="og:image" content="https://guyabel.com/post/uefa-ec-chord-diagram/featured.png" />
     <meta property="twitter:image" content="https://guyabel.com/post/uefa-ec-chord-diagram/featured.png" /><meta property="og:locale" content="en-uk" />
   
     
       <meta
         property="article:published_time"
-        content="2021-06-05T00:00:00&#43;00:00"
+        content="2024-06-17T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-06-05T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-06-17T00:00:00&#43;00:00">
   
 
   
@@ -378,8 +378,8 @@
     "https://guyabel.com/post/uefa-ec-chord-diagram/featured.png"
   ],
   
-  "datePublished": "2021-06-05T00:00:00Z",
-  "dateModified": "2021-06-05T00:00:00Z",
+  "datePublished": "2024-06-17T00:00:00Z",
+  "dateModified": "2024-06-17T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -394,7 +394,7 @@
       "url": "https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "I have been playing around with rvest once again, and decided to extend some old code to put together a data base on the squads at past European Championships from Wikipedia."
+  "description": "Euro 2024 Whilst waiting for a delayed flight I managed to update my uefa-ec  GitHub repository with new data on the squads at the current European Championships from Wikipedia, and the code to visualise where national team players play their club football using the chordDiagram() function in the circlize R package."
 }
 </script>
 
@@ -781,7 +781,7 @@
   <h1>The evolution of squad compositions at UEFA European Championships</h1>
 
   
-  <p class="page-subtitle">More players at the Euros are playing their club football abroad than ever before.</p>
+  <p class="page-subtitle">Visualising where national team players live using chord diagrams.</p>
   
 
   
@@ -811,7 +811,7 @@
     
       
     
-    Jun 5, 2021
+    Jun 17, 2024
   </span>
   
 
@@ -852,12 +852,13 @@
 
           <div class="article-container">
             <div class="article-style">
-              <p>I have been playing around with <a href="https://rvest.tidyverse.org/" target="_blank" rel="noopener">rvest</a> once again, and decided to extend some old <a href="https://gjabel.wordpress.com/2016/06/15/euro-2016-squads/" target="_blank" rel="noopener">code</a> to put together a data base on the squads at past European Championships from <a href="https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads" target="_blank" rel="noopener">Wikipedia</a>. I wanted to use the chordDiagram() function in the <a href="https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html" target="_blank" rel="noopener">circlize</a> package in R to illustrate the links between the league of the clubs where each national team player is represented.</p>
-<p>A few days ago, the squads were confirmed for Euro2020. The chords between the leagues and national teams form one big hair ball:</p>
+              <h2 id="euro-2024">Euro 2024</h2>
+<p>Whilst waiting for a delayed flight I managed to update my <a href="https://github.com/guyabel/uefa-ec" target="_blank" rel="noopener">uefa-ec </a> GitHub repository with new data on the squads at the current European Championships from <a href="https://en.wikipedia.org/wiki/UEFA_Euro_2024_squads" target="_blank" rel="noopener">Wikipedia</a>, and the code to visualise where national team players play their club football using the chordDiagram() function in the <a href="https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html" target="_blank" rel="noopener">circlize</a> R package.</p>
 <p><img src="featured.png" alt=" "></p>
 <p>The chords represent connections between the country of a player&rsquo;s club (at the chord base) and their national team (at the arrow head). The colours of each chord in the plot are based on the shirt of each national team. Chord thickness represents the number of players per club country-national team combination. The countries are ordered by the groups that they will play in during the first round (in the animation below I order the teams by their first appearance at a tournament). The countries at the top of the diagram with no flags are leagues where the national team are not represented at the tournament, but some of clubs have players representing other national teams.</p>
-<p>The chords coming out of each sector are ordered by size - it’s interesting to see more Austrian than German players playing in German leagues, and more Welsh than English players playing in English leagues.</p>
-<p>I adapted some code from animated migration <a href="https://guyabel.com/categories/chord-diagram/" target="_blank" rel="noopener">chord diagrams</a> to provide a history of the relationships between the club leagues of the players and the national team squads at each European Championship. In most of the early tournaments almost all the players came from clubs in their home country. Slowly you can see the increasing amount of national team players coming from clubs abroad and the expansion of the number of teams in the tournament.</p>
+<p>The chords coming out of each sector are ordered by the number of players in each connection. The big five leagues (England, France, Germany, Italy and Spain) host many players. In some squads, such as Albania, Georgia and Slovakia, almost all the players play for club teams abroad.</p>
+<h2 id="evolution-over-time">Evolution over time</h2>
+<p>Below is some code adapted from previous animated migration <a href="https://guyabel.com/categories/chord-diagram/" target="_blank" rel="noopener">chord diagrams</a> to provide a history of the relationships between the club leagues of the players and the national team squads at each European Championship, throughout its history. In most early tournaments almost all the players came from clubs in their home country. Slowly you can see the increasing amount of national team players coming from clubs abroad and the expansion of the number of teams in the tournament.</p>
 <style>
 video {
   /* override other styles to make responsive */
@@ -871,7 +872,7 @@ video {
 </video>
 <p>Note: you might have to right click, select show controls and hit play to start the animations depending on your browsers - right clicking can also allow you to access controls on the play back speed.</p>
 <h2 id="r-code">R Code</h2>
-<p>I put the data and all the R code to scrape the squads, flags, kit colours and tournament logos in a Github <a href="https://github.com/guyabel/uefa-ec" target="_blank" rel="noopener">repository</a>. The R code to produce the plot and animation are also in the repository. The Data Digest has a nice YouTube <a href="https://www.youtube.com/watch?v=N0l9ebyLV-k" target="_blank" rel="noopener">tutorial</a> to explain the code.</p>
+<p>The R code to scrape the squads, flags, kit colours and tournament logos are all in the Github <a href="https://github.com/guyabel/uefa-ec" target="_blank" rel="noopener">repository</a>. The repo also includes the code to produce the plot and animation. The Data Digest has a nice YouTube <a href="https://www.youtube.com/watch?v=N0l9ebyLV-k" target="_blank" rel="noopener">tutorial</a> to explain an older version of the code and plots for Euro 2020.</p>
 
             </div>
             
