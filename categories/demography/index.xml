@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demography | Guy Abel</title>
+    <link>https://guyabel.com/categories/demography/</link>
+      <atom:link href="https://guyabel.com/categories/demography/index.xml" rel="self" type="application/rss+xml" />
+    <description>demography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2024 Guy Abel</copyright><lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <title>demography</title>
+      <link>https://guyabel.com/categories/demography/</link>
+    </image>
+    
+    <item>
+      <title>Animated population tree maps</title>
+      <link>https://guyabel.com/post/animated-population-treemaps/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/post/animated-population-treemaps/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The global population hit 8 billion &lt;a href=&#34;https://www.un.org/en/desa/world-population-reach-8-billion-15-november-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;today&lt;/a&gt;. To mark the passing an absolute population total I created some animated tree map plots in R to visualize relative past and future population totals for all countries.&lt;/p&gt;
+&lt;h2 id=&#34;plots&#34;&gt;Plots&lt;/h2&gt;
+&lt;p&gt;The first animated plot shows the changes over time in the distribution of population totals based on the latest &lt;a href=&#34;https://population.un.org/wpp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;United Nations&lt;/a&gt; data, provided in the &lt;a href=&#34;https://github.com/PPgp/wpp2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wpp2022&lt;/a&gt; package.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;abel-tree-pop.gif&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
+&lt;p&gt;The second animation shows the changes over time in the distribution of population with at least a completed secondary education. Country estimates and projections were obtained from the &lt;a href=&#34;http://dataexplorer.wittgensteincentre.org/wcde-v2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wittgenstein Centre for Human Capital and Demography&lt;/a&gt; via the &lt;a href=&#34;https://guyabel.github.io/wcde/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wcde&lt;/a&gt; package that I helped develop. The past estimates of education specific populations are based on a method to breakdown the United Nations population data. However, the future population totals (and the relative size of each country) differ between the United Nations and the Wittgenstein Centre as each group use separate assumptions and methods in their projection models.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;abel-tree-hc.gif&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;r-code&#34;&gt;R Code&lt;/h2&gt;
+&lt;p&gt;Commented code to create the animated plots below are in two Gist &lt;a href=&#34;https://gist.github.com/guyabel/2307ecdd9844b6fd504b97144758a656&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://gist.github.com/guyabel/56f6b7750c44d1444675d93a599cccaa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. You can run the script directly in R using the following&amp;hellip;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(devtools)
+# UN population data
+source_gist(&#34;https://gist.github.com/guyabel/2307ecdd9844b6fd504b97144758a656&#34;)
+# Wittgenstein Centre completed secondary education population data
+source_gist(&#34;https://gist.github.com/guyabel/56f6b7750c44d1444675d93a599cccaa&#34;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The first part of each script imports the data into R, adds the continent and region names to help order the layout, and adds short country names for labels used in the plot.&lt;/p&gt;
+&lt;p&gt;The second part of the code creates a function for a single tree plot in a specific year. The function is then used twice. First to animate past data and second to animate future data. I created separate animations to allow for a pause in the GIF at 2022 and to signal in the title that data for future population distributions are based on projections.&lt;/p&gt;
+&lt;p&gt;The key to the animating tree maps is to set &lt;code&gt;layout = &amp;quot;fixed&amp;quot;&lt;/code&gt; in the &lt;code&gt;geom_treemap()&lt;/code&gt; function (in the &lt;a href=&#34;https://cran.r-project.org/web/packages/treemapify/vignettes/introduction-to-treemapify.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;treemapify&lt;/a&gt; package). I chose to group the countries by continent and then sub-region, locating neighbouring counties in the same part of the tree map and using the same fill colour.&lt;/p&gt;
+&lt;p&gt;The third part of the code generates two separate GIF files for each time period and then combines them into one.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

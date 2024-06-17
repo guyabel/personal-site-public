@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Qi | Guy Abel</title>
+    <link>https://guyabel.com/author/wei-qi/</link>
+      <atom:link href="https://guyabel.com/author/wei-qi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Qi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2024 Guy Abel</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <title>Wei Qi</title>
+      <link>https://guyabel.com/author/wei-qi/</link>
+    </image>
+    
+    <item>
+      <title>Geographic transformation of China&#39;s internal population migration from 1995 to 2015: Insights from the migration centerline</title>
+      <link>https://guyabel.com/publication/china-migration-centerline/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/china-migration-centerline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
