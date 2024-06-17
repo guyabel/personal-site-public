@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matias Heino | Guy Abel</title>
+    <link>https://guyabel.com/author/matias-heino/</link>
+      <atom:link href="https://guyabel.com/author/matias-heino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matias Heino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2024 Guy Abel</copyright><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <title>Matias Heino</title>
+      <link>https://guyabel.com/author/matias-heino/</link>
+    </image>
+    
+    <item>
+      <title>World’s human migration patterns in 2000–2019 unveiled by high-resolution data</title>
+      <link>https://guyabel.com/publication/global-net-grid/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/global-net-grid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
