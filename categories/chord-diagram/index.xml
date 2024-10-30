@@ -5,7 +5,7 @@
     <link>https://guyabel.com/categories/chord-diagram/</link>
       <atom:link href="https://guyabel.com/categories/chord-diagram/index.xml" rel="self" type="application/rss+xml" />
     <description>chord diagram</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2024 Guy Abel</copyright><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2024 Guy Abel</copyright><lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>chord diagram</title>
@@ -15,7 +15,7 @@
     <item>
       <title>The evolution of squad compositions at UEFA European Championships</title>
       <link>https://guyabel.com/post/uefa-ec-chord-diagram/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://guyabel.com/post/uefa-ec-chord-diagram/</guid>
       <description>&lt;h2 id=&#34;euro-2024&#34;&gt;Euro 2024&lt;/h2&gt;
 &lt;p&gt;Whilst waiting for a delayed flight I managed to update my &lt;a href=&#34;https://github.com/guyabel/uefa-ec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uefa-ec &lt;/a&gt; GitHub repository with new data on the squads at the current European Championships from &lt;a href=&#34;https://en.wikipedia.org/wiki/UEFA_Euro_2024_squads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;, and the code to visualise where national team players play their club football using the chordDiagram() function in the &lt;a href=&#34;https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circlize&lt;/a&gt; R package.&lt;/p&gt;
