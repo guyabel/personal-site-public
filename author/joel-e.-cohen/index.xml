@@ -17,7 +17,13 @@
       <link>https://guyabel.com/publication/bilateral-migration-flow-sex/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://guyabel.com/publication/bilateral-migration-flow-sex/</guid>
-      <description>&lt;p&gt;Follow the links above to download the data. Below are a couple of extra animations I created to show some of the data. These were created using in  &lt;a href=&#34;https://guyabel.com/categories/r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;  using code adapted from this &lt;a href=&#34;https://guyabel.com/post/animated-directional-chord-diagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1038/s41597-022-01271-z&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1038/s41597-022-01271-z&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Follow the links above to download the data. Below are a couple of extra animations I created to show some of the data. These were created using in  &lt;a href=&#34;https://guyabel.com/categories/r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;  using code adapted from this &lt;a href=&#34;https://guyabel.com/post/animated-directional-chord-diagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;sex-differences&#34;&gt;Sex differences&lt;/h4&gt;
 &lt;style&gt;
 video {
@@ -48,8 +54,16 @@ video {
 &lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://guyabel.com/publication/bilateral-international-migration-flow-estimates/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+&lt;div class=&#34;altmetric-embed&#34; data-doi=&#34;10.1038/s41597-019-0089-3&#34; data-badge-type=&#34;medium-donut&#34; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#34;right&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+&lt;div class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1038/s41597-019-0089-3&#34; data-hide-zero-citations=&#34;true&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
-&lt;p&gt;Since the paper was published, I have produced four updates to reflect&lt;/p&gt;
+&lt;p&gt;Since the paper was published, I have produced seven updates to reflect&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The latest United Nations demographic data released in WPP2019, WPP2022 and WPP2024 (July 19, 2019, 28 October, 2022 and 30 October and 2024)&lt;/li&gt;
 &lt;li&gt;The latest United Nations migrant stock data released in IMS2019 and IMS2020 (October 23, 2019 and February 1, 2021)&lt;/li&gt;

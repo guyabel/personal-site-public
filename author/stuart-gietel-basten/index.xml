@@ -17,7 +17,13 @@
       <link>https://guyabel.com/publication/covid-remittance/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
       <guid>https://guyabel.com/publication/covid-remittance/</guid>
-      <description>&lt;h3 id=&#34;animated-version&#34;&gt;Animated Version&lt;/h3&gt;
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1177/0308518X20931111&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1177/0308518X20931111&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;animated-version&#34;&gt;Animated Version&lt;/h3&gt;
 &lt;p&gt;Below is an animated version of the plot in the paper for remittance since 2010 based on the World Bank &lt;a href=&#34;https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues/brief/migration-remittances-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;&lt;/p&gt;
 &lt;style&gt;
 video {

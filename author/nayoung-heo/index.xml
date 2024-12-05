@@ -17,7 +17,13 @@
       <link>https://guyabel.com/publication/linkedin-taiwan-korea/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://guyabel.com/publication/linkedin-taiwan-korea/</guid>
-      <description></description>
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1016/j.cities.2023.104315&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1016/j.cities.2023.104315&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +31,13 @@
       <link>https://guyabel.com/publication/korea-gender-balance/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://guyabel.com/publication/korea-gender-balance/</guid>
-      <description>&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;doi/10.1177/0308518X18756640&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;doi/10.1177/0308518X18756640&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;p&gt;An animated version of the plot in the paper I made when playing around with &lt;a href=&#34;https://github.com/thomasp85/gganimate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;gganimate&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;korea_srb.gif&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
 </description>
@@ -36,7 +48,13 @@
       <link>https://guyabel.com/publication/korea-internal-migration-1970-2016/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://guyabel.com/publication/korea-internal-migration-1970-2016/</guid>
-      <description>&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1080/21681376.2018.1431149&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1080/21681376.2018.1431149&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;p&gt;Please contact me if you would like the R code to produce the plot.&lt;/p&gt;
 </description>
     </item>
