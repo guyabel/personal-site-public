@@ -5,39 +5,72 @@
     <link>https://guyabel.com/author/guy-abel/</link>
       <atom:link href="https://guyabel.com/author/guy-abel/index.xml" rel="self" type="application/rss+xml" />
     <description>Guy Abel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2025 Guy Abel</copyright><lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2025 Guy Abel</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://guyabel.com/author/guy-abel/avatar_hu5586689ca903b99c3d2e8ba7e4c0b0ce_470585_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
       <title>Guy Abel</title>
       <link>https://guyabel.com/author/guy-abel/</link>
     </image>
     
     <item>
-      <title>The evolution of squad compositions at UEFA European Championships</title>
-      <link>https://guyabel.com/post/uefa-ec-chord-diagram/</link>
-      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://guyabel.com/post/uefa-ec-chord-diagram/</guid>
-      <description>&lt;h2 id=&#34;euro-2024&#34;&gt;Euro 2024&lt;/h2&gt;
-&lt;p&gt;Whilst waiting for a delayed flight I managed to update my &lt;a href=&#34;https://github.com/guyabel/uefa-ec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uefa-ec &lt;/a&gt; GitHub repository with new data on the squads at the current European Championships from &lt;a href=&#34;https://en.wikipedia.org/wiki/UEFA_Euro_2024_squads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;, and the code to visualise where national team players play their club football using the chordDiagram() function in the &lt;a href=&#34;https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;circlize&lt;/a&gt; R package.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34; &#34;&gt;&lt;/p&gt;
-&lt;p&gt;The chords represent connections between the country of a player&amp;rsquo;s club (at the chord base) and their national team (at the arrow head). The colours of each chord in the plot are based on the shirt of each national team. Chord thickness represents the number of players per club country-national team combination. The countries are ordered by the groups that they will play in during the first round (in the animation below I order the teams by their first appearance at a tournament). The countries at the top of the diagram with no flags are leagues where the national team are not represented at the tournament, but some of clubs have players representing other national teams.&lt;/p&gt;
-&lt;p&gt;The chords coming out of each sector are ordered by the number of players in each connection. The big five leagues (England, France, Germany, Italy and Spain) host many players. In some squads, such as Albania, Georgia and Slovakia, almost all the players play for club teams abroad.&lt;/p&gt;
-&lt;h2 id=&#34;evolution-over-time&#34;&gt;Evolution over time&lt;/h2&gt;
-&lt;p&gt;Below is some code adapted from previous animated migration &lt;a href=&#34;https://guyabel.com/categories/chord-diagram/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chord diagrams&lt;/a&gt; to provide a history of the relationships between the club leagues of the players and the national team squads at each European Championship, throughout its history. In most early tournaments almost all the players came from clubs in their home country. Slowly you can see the increasing amount of national team players coming from clubs abroad and the expansion of the number of teams in the tournament.&lt;/p&gt;
-&lt;style&gt;
-video {
-  /* override other styles to make responsive */
-  width: 100%    !important;
-  height: auto   !important;
-  max-height: 720px
-}
-&lt;/style&gt;
-&lt;video loop=&#34;loop&#34; controls&gt;
-  &lt;source src=&#34;abel-euro.mp4&#34; type=&#34;video/mp4&#34; /&gt;
-&lt;/video&gt;
-&lt;p&gt;Note: you might have to right click, select show controls and hit play to start the animations depending on your browsers - right clicking can also allow you to access controls on the play back speed.&lt;/p&gt;
-&lt;h2 id=&#34;r-code&#34;&gt;R Code&lt;/h2&gt;
-&lt;p&gt;The R code to scrape the squads, flags, kit colours and tournament logos are all in the Github &lt;a href=&#34;https://github.com/guyabel/uefa-ec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;. The repo also includes the code to produce the plot and animation. The Data Digest has a nice YouTube &lt;a href=&#34;https://www.youtube.com/watch?v=N0l9ebyLV-k&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; to explain an older version of the code and plots for Euro 2020.&lt;/p&gt;
+      <title>The Globalization of International Migration? A Conceptual and Data‐Driven Synthesis</title>
+      <link>https://guyabel.com/publication/globalization-of-international-migration/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/globalization-of-international-migration/</guid>
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1111/padr.12686&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1111/padr.12686&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drought and aridity influence internal migration worldwide</title>
+      <link>https://guyabel.com/publication/drought-aridity-migration/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/drought-aridity-migration/</guid>
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1038/s41558-024-02165-1&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1038/s41558-024-02165-1&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Migration Intersections Grid: An Organizing Framework for Migration Research in and through the Twenty-first Century</title>
+      <link>https://guyabel.com/publication/migration-intersection-grid/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/migration-intersection-grid/</guid>
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1177/019791832412754&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1177/019791832412754&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A multidimensional global migration model for use in cohort-component population projections</title>
+      <link>https://guyabel.com/publication/global-migration-cohort-component/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/global-migration-cohort-component/</guid>
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.4054/DemRes.2024.51.11&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.4054/DemRes.2024.51.11&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+ncludes the code to produce the plot and animation. The Data Digest has a nice YouTube &lt;a href=&#34;https://www.youtube.com/watch?v=N0l9ebyLV-k&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial&lt;/a&gt; to explain an older version of the code and plots for Euro 2020.&lt;/p&gt;
 </description>
     </item>
     
