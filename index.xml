@@ -151,6 +151,19 @@ video {
 &lt;div style=&#34;display: inline-block&#34;&gt;
    &lt;div data-doi=&#34;10.1073/pnas.2409418122&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
+&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
+&lt;style&gt;
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+  max-height: 720px
+}
+&lt;/style&gt;
+&lt;p&gt;Article by the New York Times on the data &lt;a href=&#34;https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data.html&#34;&gt;https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data.html&lt;/a&gt;&lt;/p&gt;
+&lt;video loop=&#34;loop&#34; controls&gt;
+&lt;source src=&#34;preview.mp4&#34; type=&#34;video/mp4&#34;/&gt;
+&lt;/video&gt;
 </description>
     </item>
     
