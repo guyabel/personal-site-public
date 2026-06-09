@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Gaskin | Guy Abel</title>
+    <link>https://guyabel.com/author/thomas-gaskin/</link>
+      <atom:link href="https://guyabel.com/author/thomas-gaskin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Gaskin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2026 Guy Abel</copyright><lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Gaskin</title>
+      <link>https://guyabel.com/author/thomas-gaskin/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning four decades of human migration</title>
+      <link>https://guyabel.com/publication/global-migration-deep-learning/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/global-migration-deep-learning/</guid>
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top; margin-right:15px;&#34;&gt;
+   &lt;div data-doi=&#34;10.1038/s41586-026-10611-7&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; vertical-align:top;&#34;&gt;
+   &lt;div data-doi=&#34;10.1038/s41586-026-10611-7&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
+&lt;style&gt;
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+  max-height: 720px
+}
+&lt;/style&gt;
+&lt;p&gt;An interactive website visualising the global migration estimates can be found at &lt;a href=&#34;https://www.socsc.hku.hk/rhps/global-migration/&#34;&gt;https://www.socsc.hku.hk/rhps/global-migration/&lt;/a&gt;&lt;/p&gt;
+&lt;video loop=&#34;loop&#34; controls&gt;
+&lt;source src=&#34;preview.mp4&#34; type=&#34;video/mp4&#34;/&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

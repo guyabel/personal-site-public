@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drew Johnston | Guy Abel</title>
+    <link>https://guyabel.com/author/drew-johnston/</link>
+      <atom:link href="https://guyabel.com/author/drew-johnston/index.xml" rel="self" type="application/rss+xml" />
+    <description>Drew Johnston</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-uk</language><copyright>© 2026 Guy Abel</copyright><lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guyabel.com/media/icon_hua235b20c26de23a006d4e436991121ab_642_512x512_fill_lanczos_center_2.png</url>
+      <title>Drew Johnston</title>
+      <link>https://guyabel.com/author/drew-johnston/</link>
+    </image>
+    
+    <item>
+      <title>Measuring global migration flows using online data</title>
+      <link>https://guyabel.com/publication/global-migration-facebook/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://guyabel.com/publication/global-migration-facebook/</guid>
+      <description>&lt;div style=&#34;display:inline-block; vertical-align:top&#34;&gt;
+   &lt;div data-doi=&#34;10.1073/pnas.2409418122&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block&#34;&gt;
+   &lt;div data-doi=&#34;10.1073/pnas.2409418122&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
