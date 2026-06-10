@@ -36,6 +36,11 @@ video {
 &lt;video loop=&#34;loop&#34; controls&gt;
 &lt;source src=&#34;preview.mp4&#34; type=&#34;video/mp4&#34;/&gt;
 &lt;/video&gt;
+&lt;p&gt;They also produced an interactive tool &lt;a href=&#34;https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data-interactive-tool.html&#34;&gt;https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data-interactive-tool.html&lt;/a&gt;&lt;/p&gt;
+&lt;video loop=&#34;loop&#34; controls&gt;
+&lt;source src=&#34;preview-data-explorer.mp4&#34; type=&#34;video/mp4&#34;/&gt;
+&lt;/video&gt;
+&lt;p&gt;Unfortunately both are behind their paywall.&lt;/p&gt;
 </description>
     </item>
     

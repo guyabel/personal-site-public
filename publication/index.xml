@@ -34,7 +34,7 @@ video {
 &lt;/style&gt;
 &lt;p&gt;An interactive website visualising the global migration estimates can be found at &lt;a href=&#34;https://www.socsc.hku.hk/rhps/global-migration/&#34;&gt;https://www.socsc.hku.hk/rhps/global-migration/&lt;/a&gt;&lt;/p&gt;
 &lt;video loop=&#34;loop&#34; controls&gt;
-&lt;source src=&#34;preview.mp4&#34; type=&#34;video/mp4&#34;/&gt;
+&lt;source src=&#34;preview-map.mp4&#34; type=&#34;video/mp4&#34;/&gt;
 &lt;/video&gt;
 &lt;video loop=&#34;loop&#34; controls&gt;
 &lt;source src=&#34;preview-chord.mp4&#34; type=&#34;video/mp4&#34;/&gt;
@@ -69,6 +69,11 @@ video {
 &lt;video loop=&#34;loop&#34; controls&gt;
 &lt;source src=&#34;preview.mp4&#34; type=&#34;video/mp4&#34;/&gt;
 &lt;/video&gt;
+&lt;p&gt;They also produced an interactive tool &lt;a href=&#34;https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data-interactive-tool.html&#34;&gt;https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data-interactive-tool.html&lt;/a&gt;&lt;/p&gt;
+&lt;video loop=&#34;loop&#34; controls&gt;
+&lt;source src=&#34;preview-data-explorer.mp4&#34; type=&#34;video/mp4&#34;/&gt;
+&lt;/video&gt;
+&lt;p&gt;Unfortunately both are behind their paywall.&lt;/p&gt;
 </description>
     </item>
     
