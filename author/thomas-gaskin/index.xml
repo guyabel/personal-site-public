@@ -21,7 +21,7 @@
    &lt;div data-doi=&#34;10.1038/s41586-026-10611-7&#34; data-badge-type=&#39;medium-donut&#39; class=&#39;altmetric-embed&#39; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#39;right&#39; &gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: inline-block; vertical-align:top;&#34;&gt;
-   &lt;div data-doi=&#34;10.1038/s41586-026-10611-7&#34; class=&#34;__dimensions_badge_embed__&#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
+   &lt;div data-doi=&#34;10.1038/s41586-026-10611-7&#34; class=&#34;__dimensions_badge_embed__ &#34; data-hide-zero-citations=&#34;true&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;further-notes&#34;&gt;Further Notes&lt;/h2&gt;
 &lt;style&gt;
@@ -34,13 +34,7 @@ video {
 &lt;/style&gt;
 &lt;p&gt;An interactive website visualising the global migration estimates can be found at &lt;a href=&#34;https://www.socsc.hku.hk/rhps/global-migration/&#34;&gt;https://www.socsc.hku.hk/rhps/global-migration/&lt;/a&gt;&lt;/p&gt;
 &lt;video loop=&#34;loop&#34; controls&gt;
-&lt;source src=&#34;preview-map.mp4&#34; type=&#34;video/mp4&#34;/&gt;
-&lt;/video&gt;
-&lt;video loop=&#34;loop&#34; controls&gt;
-&lt;source src=&#34;preview-chord.mp4&#34; type=&#34;video/mp4&#34;/&gt;
-&lt;/video&gt;
-&lt;video loop=&#34;loop&#34; controls&gt;
-&lt;source src=&#34;preview-sankey.mp4&#34; type=&#34;video/mp4&#34;/&gt;
+&lt;source src=&#34;preview.mp4&#34; type=&#34;video/mp4&#34;/&gt;
 &lt;/video&gt;
 </description>
     </item>
