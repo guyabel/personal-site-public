@@ -62,9 +62,17 @@ video {
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: inline-block&#34;&gt;
-&lt;p&gt;::: {.__dimensions_badge_embed__ data-doi=“10.1038/s41597-019-0089-3” data-hide-zero-citations=“true”}&lt;/p&gt;
+&lt;div class=&#34;__dimensions_badge_embed__&#34; data-doi=&#34;10.1038/s41597-019-0089-3&#34; data-hide-zero-citations=&#34;true&#34;&gt;
 &lt;/div&gt;
-&lt;p&gt;::::&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- :::: {style=&#34;display:inline-block; vertical-align:top&#34;} --&gt;
+&lt;!-- ::: {.altmetric-embed data-doi=&#34;10.1038/s41597-019-0089-3&#34; data-badge-type=&#34;medium-donut&#34; data-hide-no-mentions=&#34;true&#34; data-badge-popover=&#34;right&#34;} --&gt;
+&lt;!-- ::: --&gt;
+&lt;!-- :::: --&gt;
+&lt;!-- :::: {style=&#34;display: inline-block&#34;} --&gt;
+&lt;!-- ::: {.__dimensions_badge_embed__ data-doi=&#34;10.1038/s41597-019-0089-3&#34; data-hide-zero-citations=&#34;true&#34;} --&gt;
+&lt;!-- ::: --&gt;
+&lt;!-- :::: --&gt;
 &lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
 &lt;p&gt;Since the paper was published, I have produced seven updates to reflect&lt;/p&gt;
 &lt;ul&gt;
@@ -247,6 +255,7 @@ video {
 &lt;/video&gt;
 &lt;p&gt;The new estimates include migration flows for Taiwan, which were previously combined with those for Mainland China. Sint Maarten and Curaçao now have flow estimates for the entire period, whereas previously, there was no migrant stock data available in these countries to enable flow estimation before 2005 and 2010, respectively.&lt;/p&gt;
 &lt;p&gt;Below are a few plots to give some visual summaries of the changes in the estimates compared to previous versions.&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;tot-v8&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;comparison-to-past-estimates-5&#34;&gt;Comparison to past estimates&lt;/h4&gt;
 &lt;p&gt;The plot of the total migration flows, shown in &lt;a href=&#34;https://www.nature.com/articles/s41597-019-0089-3#Fig2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 2&lt;/a&gt; in the paper, is updated below with the new estimates.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;v8-tot7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
